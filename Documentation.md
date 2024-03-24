@@ -10,6 +10,7 @@ Our project team consists of members with specialized skills across various doma
 
 ### UI/UX Design
 
+- **Name**: Aisha Toichieva
 - **Responsibilities**: Design the application's interface and user experience with a focus on ease of use and aesthetic appeal.
 - **Tools**: Figma
 - **Objectives**:
@@ -19,6 +20,7 @@ Our project team consists of members with specialized skills across various doma
 
 ### Data Engineering
 
+- **Name**: Aizhamal Zhetigenova
 - **Responsibilities**: Design and implement the database from scratch, taking into account the complex relationships inherent in family trees.
 - **Objectives**:
   - Model and design an efficient database schema.
@@ -27,6 +29,7 @@ Our project team consists of members with specialized skills across various doma
 
 ### Frontend Development
 
+- **Name**: Umidbek Ulmasov
 - **Responsibilities**: Build the user interface and client-side logic of the application, ensuring responsiveness and user-friendliness.
 - **Tools**: React (primary), JavaScript, HTML, CSS
 - **Objectives**:
@@ -36,6 +39,7 @@ Our project team consists of members with specialized skills across various doma
 
 ### Backend Development
 
+- **Name**: Rauf Alibakhshov
 - **Responsibilities**: Implement the server-side logic and database interactions to manage user data, authentication, and API services.
 - **Tools**: Python, Flask or Django frameworks
 - **Objectives**:
@@ -45,6 +49,7 @@ Our project team consists of members with specialized skills across various doma
 
 ### DevOps
 
+- **Name**: Ilkhomzhon Sidikov
 - **Responsibilities**: Set up and maintain the infrastructure for deployment, monitoring, and managing the application.
 - **Objectives**:
   - Automate deployment processes.
